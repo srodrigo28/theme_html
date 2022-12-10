@@ -7,4 +7,3 @@
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23FFac45.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](https://github.com/) 
 
 
-* https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509#:~:text=A%20tag%20align%20%C3%A9%20usada,e%20assume%20left%20por%20padr%C3%A3o.
