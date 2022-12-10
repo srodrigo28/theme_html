@@ -11,7 +11,7 @@
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23FFac45.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](https://github.com/) 
 
 <h3 align="center"> 
-    Criando um tema
+    Tela Proposta
 </h3>
 <img 
     src="https://github.com/srodrigo28/theme_html/blob/main/img/project.png?raw=true" 
