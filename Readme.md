@@ -11,9 +11,17 @@
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23FFac45.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](https://github.com/) 
 
 <h3 align="center"> 
-    Tela Proposta
+    Tela Clara
 </h3>
 <img 
-    src="https://github.com/srodrigo28/theme_html/blob/main/img/project.png?raw=true" 
+    src="https://github.com/srodrigo28/theme_html/blob/main/img/claro.png?raw=true" 
+    alt="imagem teste"
+/>
+<br>
+<h3 align="center"> 
+    Tela Escura
+</h3>
+<img 
+    src="https://github.com/srodrigo28/theme_html/blob/main/img/escuro.png?raw=true" 
     alt="imagem teste"
 />
