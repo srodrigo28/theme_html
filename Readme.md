@@ -7,4 +7,4 @@
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23FFac45.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](https://github.com/) 
 
 
-<img src="https://github.com/srodrigo28/theme_html/blob/main/img/facebook.png" alt="imagem teste">
+<img src="https://github.com/srodrigo28/theme_html/blob/main/img/project.png?raw=true" alt="imagem teste">
