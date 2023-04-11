@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    Criando um tema 1
+    Criando um tema 1 e 2
 </h1>
 
 <h3> 
